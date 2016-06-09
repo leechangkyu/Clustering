@@ -1,2 +1,2 @@
 # Clustering
-clustering method for Ephys &amp; morphology data
+This folder is to host clustering method/feature/result  for Ephys and morphology data
